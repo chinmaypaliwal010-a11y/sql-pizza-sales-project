@@ -1,4 +1,4 @@
-# sql pizza sales project 
+
 # SQL Pizza Sales Project
 
 ## Project Objective
